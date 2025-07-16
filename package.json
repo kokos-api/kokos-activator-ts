@@ -1,8 +1,8 @@
 {
     "name": "kokos-activator-api",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "private": false,
-    "repository": "github:kokos-activator/kokos-api-ts",
+    "repository": "github:kokos-api/kokos-activator-ts",
     "license": "MIT",
     "type": "commonjs",
     "main": "./dist/cjs/index.js",
